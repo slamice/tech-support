@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-h2. Bug fixing
-
 h2. Hiring and Politics:
 - Tech support seen as a lowly role, will have to "prove" yourself.
 
