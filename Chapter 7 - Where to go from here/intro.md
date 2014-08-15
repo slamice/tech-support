@@ -6,4 +6,5 @@ Where to go from here:
 - Sales Engineer
 - Engineer
 - Company founder
+- Data engineer
 - Anywhere
