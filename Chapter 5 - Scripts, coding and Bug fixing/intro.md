@@ -1,3 +1,15 @@
+logs:
+
+What you should look for in yoru logs:
+
+- http://www.techrepublic.com/blog/web-designer/what-you-should-be-looking-for-in-your-web-server-logs/
+
+Some important logs:
+
+- Application logs, should have levels of severity
+- 
+- 
+
 SSL certificate
 
 
