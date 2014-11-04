@@ -5,16 +5,25 @@ h3. Short term
 
 h3. Long term 
 
-h4. Feature change
+
+
+
+
+
+h3. Process change...
+
+Or even get rid of it!
+
+
+
+
 
 h4. Automate Support / Analysis
 
 As tempting as this sounds to be the catch all solution, this isn't always the best option. 
 
 
-h4. Process change...
 
-Or even get rid of it!
 
 
 refer to Joel Spolsky
